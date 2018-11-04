@@ -3,7 +3,7 @@
 # Which Honeypot(s) you deployed 
 Since I encountered a lot of problems during the installation of the mhn and the honeypot, I only deployed one honeypot, which was 
 + Ubuntu - Dionaea with HTTP
-
+<img src="https://github.com/shengw8/Assignment_9/blob/master/Sensor.png">
 # Any issues you encountered 
 + At first, I did not know I have to install the Modern Honey Network in the Google Cloud Platform. 
 + There were problems with older mhn on the github links provided in the spec. I find another one on the "https://gihub.com/threatstream/mhn".
