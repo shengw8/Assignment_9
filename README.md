@@ -14,8 +14,10 @@ Since I encountered a lot of problems during the installation of the mhn and the
 + Creation Time for the mhn-admin server: Nov 2, 2018, 7:00:50 PM
 + Creation Time for the honeypot: Nov 2, 2018, 8:24:59 PM
 + I received 8327 record of attack. 
+ <img src="https://github.com/shengw8/Assignment_9/blob/master/Terminal.png">
+ <img src="https://github.com/shengw8/Assignment_9/blob/master/Attacks.png">
  
- 
- Here's a json file of all the attacks in more details.
+ Here's a json file of all the attacks in more details:
+ [sessions.json][https://github.com/shengw8/Assignment_9/blob/master/session.json]
 # Any unresolved questions raised by the data collected
 + I'm still unable to access the external IP Address by just simply clicking it. But when I copied it into another tab in the browser, and everything magically works.
